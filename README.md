@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here's a couple of recent projects I've worked on:
+* [Karriereveiledning](https://karriereveiledning.no/) - Next.js / React
+* [Spekter Digital](https://app.spekterdigital.no/) - React / Node.js / Postgres
+* [Dignio Prevent](https://no.dignio.com/) - React
+
 <!--
 **eliocro/eliocro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
