@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Here's a couple of recent projects I've worked on:
-* [Karriereveiledning](https://karriereveiledning.no/) - Next.js / React
-* [Spekter Digital](https://app.spekterdigital.no/) - React / Node.js / Postgres
-* [Dignio Prevent](https://no.dignio.com/) - React
+* [Karriereveiledning](https://karriereveiledning.no/) - Next.js / React / TypeScript / Headless Drupal
+* [Spekter Digital](https://app.spekterdigital.no/) - React / Redux / Express / Node.js / Postgres
+* [Dignio Prevent](https://no.dignio.com/) - React / GraphQL / TypeScript
 
 <!--
 **eliocro/eliocro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
