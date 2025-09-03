@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Here's a couple of recent projects I've worked on:
-* [Ometria](https://app.ometria.com/login) - React / TanStack Query / TypeScript
-* [Karriereveiledning](https://karriereveiledning.no/) - Next.js / React / TypeScript / Headless Drupal
-* [Spekter Digital](https://app.spekterdigital.no/) - React / Redux / Express / Node.js / Postgres
-* [Dignio Prevent](https://no.dignio.com/) - React / GraphQL / TanStack Query / TypeScript
+Here's a few recent projects I've worked on:
+* 2025 - [Ometria](https://app.ometria.com/) - React / TanStack Query / TypeScript / Micro-frontends
+* 2023-2025 - [Karriereveiledning](https://karriereveiledning.no/) - Next.js / React / TypeScript / Headless Drupal
+* 2021-2022 - [Dignio Prevent](https://no.dignio.com/) - React / GraphQL / TanStack Query / TypeScript
+* 2020-2025 - [Spekter Digital](https://app.spekterdigital.no/) - React / Redux / Express / Node.js / Postgres
 
 <!--
 **eliocro/eliocro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
